@@ -70,6 +70,8 @@
     {"id":{"name":"spr_barricadeWood","path":"sprites/spr_barricadeWood/spr_barricadeWood.yy",},},
     {"id":{"name":"spr_barril","path":"sprites/spr_barril/spr_barril.yy",},},
     {"id":{"name":"spr_button_rectangle","path":"sprites/spr_button_rectangle/spr_button_rectangle.yy",},},
+    {"id":{"name":"spr_button_square_colision","path":"sprites/spr_button_square_colision/spr_button_square_colision.yy",},},
+    {"id":{"name":"spr_button_square_jelly","path":"sprites/spr_button_square_jelly/spr_button_square_jelly.yy",},},
     {"id":{"name":"spr_button_square","path":"sprites/spr_button_square/spr_button_square.yy",},},
     {"id":{"name":"spr_crateMetal","path":"sprites/spr_crateMetal/spr_crateMetal.yy",},},
     {"id":{"name":"spr_crateWood","path":"sprites/spr_crateWood/spr_crateWood.yy",},},

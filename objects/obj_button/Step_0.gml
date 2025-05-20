@@ -4,7 +4,23 @@ image_xscale = scale
 image_yscale = scale
 
 
-scale = clamp(scale,1,5)
 
-scale = lerp(scale,2,0.1)
+scale = clamp(scale,0.5,5)
 
+
+if(enter)
+{
+	scale = lerp(scale,1.5,0.1)
+	
+	
+	if(image_index>=image_number-1) sprite_index  = spr_button_square
+
+}
+else
+{
+	scale = lerp(scale,1,0.1)
+		sprite_index  = spr_button_square
+
+	
+}
+	
