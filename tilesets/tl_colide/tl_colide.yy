@@ -1,0 +1,41 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tl_colide",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":10,
+    "SerialiseWidth":11,
+    "TileCompressedData":[
+      -13,0,2,10,11,-9,0,2,16,17,-31,0,2,7,8,-3,0,8,25,26,27,28,0,0,13,14,-31,0,3,37,38,39,-6,0,
+    ],
+    "TileDataFormat":1,
+  },
+  "name":"tl_colide",
+  "out_columns":6,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Conjuntos de tiles",
+    "path":"folders/Conjuntos de tiles.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_objects_colide",
+    "path":"sprites/spr_objects_colide/spr_objects_colide.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":32,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":32,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":42,
+}
