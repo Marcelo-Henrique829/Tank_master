@@ -42,8 +42,7 @@ function scr_anim_direction(){
 		
 		}
 		
-		show_debug_message(dir_state)
-		show_debug_message(dir)
+		
 
 
 }
@@ -88,7 +87,7 @@ function scr_anim_direction_attack(){
 		
 		}
 		
-		show_debug_message(dir_state)
+	
 
 
 }

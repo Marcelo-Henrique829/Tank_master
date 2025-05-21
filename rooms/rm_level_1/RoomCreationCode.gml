@@ -1,0 +1,1 @@
+global.sq_out = layer_sequence_create("Transition",0,0,sq_out)

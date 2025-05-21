@@ -19,6 +19,5 @@ function scr_screen_shake() //precisa de uma variavel shake
 	}
 
 
-	show_debug_message(global.shake)
 
 }
