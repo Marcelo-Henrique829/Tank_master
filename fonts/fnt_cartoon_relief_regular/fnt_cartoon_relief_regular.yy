@@ -134,10 +134,7 @@
   "sdfSpread":20,
   "size":19.0,
   "styleName":"Regular",
-  "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
-  },
+  "textureGroupId":null,
   "TTFName":"C:\\Users\\marce\\GameMakerProjects\\Tank_master\\fonts\\fnt_cartoon_relief_regular\\CartoonRelief-Regular.ttf",
   "usesSDF":true,
 }

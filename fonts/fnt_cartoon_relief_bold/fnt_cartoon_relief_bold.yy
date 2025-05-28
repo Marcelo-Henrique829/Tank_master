@@ -134,10 +134,7 @@
   "sdfSpread":8,
   "size":40.0,
   "styleName":"Bold",
-  "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
-  },
+  "textureGroupId":null,
   "TTFName":"C:\\Users\\marce\\GameMakerProjects\\Tank_master\\fonts\\fnt_cartoon_relief_bold\\CartoonRelief-Bold.ttf",
   "usesSDF":true,
 }
